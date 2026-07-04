@@ -2,7 +2,7 @@
 
 > 個人台股 AI / 半導體供應鏈「製程鏈 × 供應鏈」深度研究筆記。每個主題拆解完整製程鏈、逐環節技術難度、台廠 vs 國際供應鏈逐環節對照(嚴格區分『已查證(有獨立佐證)』與『概念股清單(未逐項佐證)』);每主題雙版本——技術版(深色,完整製程)+ 投資版(淺色,含受惠評分/估值)。內容為個人研究彙整、非投資建議。
 
-更新:2026-07-04。以下為各主題報告連結。
+更新:2026-07-05。以下為各主題報告連結。
 
 ## 深度研究報告
 
@@ -46,8 +46,8 @@
 - [半導體溶劑瓶頸 — 技術版](https://date-0604.github.io/chain-reports/deep/semi-chemicals-solvent/%E5%8D%8A%E5%B0%8E%E9%AB%94%E6%BA%B6%E5%8A%91%E7%93%B6%E9%A0%B8-process-chain.html): 製程鏈深度報告,資料更新 2026-06(深色、完整製程拆解)
 - [T-Glass玻纖布 — 投資版](https://date-0604.github.io/chain-reports/deep/t-glass/T-Glass%E7%8E%BB%E7%BA%96%E5%B8%83-process-chain-light.html): 製程鏈深度報告,資料更新 2026-07(淺色易讀、受惠評分)
 - [T-Glass玻纖布 — 技術版](https://date-0604.github.io/chain-reports/deep/t-glass/T-Glass%E7%8E%BB%E7%BA%96%E5%B8%83-process-chain.html): 製程鏈深度報告,資料更新 2026-07(深色、完整製程拆解)
-- [AI散熱鏈 — 投資版](https://date-0604.github.io/chain-reports/deep/thermal/AI%E6%95%A3%E7%86%B1%E9%8F%88-process-chain-light.html): 製程鏈深度報告,資料更新 2026-06(淺色易讀、受惠評分)
-- [AI散熱鏈 — 技術版](https://date-0604.github.io/chain-reports/deep/thermal/AI%E6%95%A3%E7%86%B1%E9%8F%88-process-chain.html): 製程鏈深度報告,資料更新 2026-06(深色、完整製程拆解)
+- [AI散熱鏈 — 投資版](https://date-0604.github.io/chain-reports/deep/thermal/AI%E6%95%A3%E7%86%B1%E9%8F%88-process-chain-light.html): 製程鏈深度報告,資料更新 2026-07(淺色易讀、受惠評分)
+- [AI散熱鏈 — 技術版](https://date-0604.github.io/chain-reports/deep/thermal/AI%E6%95%A3%E7%86%B1%E9%8F%88-process-chain.html): 製程鏈深度報告,資料更新 2026-07(深色、完整製程拆解)
 - [台積生態系全景圖 — 投資版](https://date-0604.github.io/chain-reports/deep/tsmc-ecosystem-umbrella/%E5%8F%B0%E7%A9%8D%E7%94%9F%E6%85%8B%E7%B3%BB%E5%85%A8%E6%99%AF%E5%9C%96-process-chain-light.html): 製程鏈深度報告,資料更新 2026-06(淺色易讀、受惠評分)
 - [台積生態系全景圖 — 技術版](https://date-0604.github.io/chain-reports/deep/tsmc-ecosystem-umbrella/%E5%8F%B0%E7%A9%8D%E7%94%9F%E6%85%8B%E7%B3%BB%E5%85%A8%E6%99%AF%E5%9C%96-process-chain.html): 製程鏈深度報告,資料更新 2026-06(深色、完整製程拆解)
 
