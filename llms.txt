@@ -2,7 +2,7 @@
 
 > 個人台股 AI / 半導體供應鏈「製程鏈 × 供應鏈」深度研究筆記。每個主題拆解完整製程鏈、逐環節技術難度、台廠 vs 國際供應鏈逐環節對照(嚴格區分『已查證(有獨立佐證)』與『概念股清單(未逐項佐證)』);每主題雙版本——技術版(深色,完整製程)+ 投資版(淺色,含受惠評分/估值)。內容為個人研究彙整、非投資建議。
 
-更新:2026-07-05。以下為各主題報告連結。
+更新:2026-07-06。以下為各主題報告連結。
 
 ## 深度研究報告
 
@@ -10,8 +10,8 @@
 - [ABF-BT載板 — 技術版](https://date-0604.github.io/chain-reports/deep/abf-substrate/ABF-BT%E8%BC%89%E6%9D%BF-process-chain.html): 製程鏈深度報告,資料更新 2026-06(深色、完整製程拆解)
 - [CoWoS-CoPoS先進封裝 — 投資版](https://date-0604.github.io/chain-reports/deep/advanced-packaging-cowos-copos/CoWoS-CoPoS%E5%85%88%E9%80%B2%E5%B0%81%E8%A3%9D-process-chain-light.html): 製程鏈深度報告,資料更新 2026-06(淺色易讀、受惠評分)
 - [CoWoS-CoPoS先進封裝 — 技術版](https://date-0604.github.io/chain-reports/deep/advanced-packaging-cowos-copos/CoWoS-CoPoS%E5%85%88%E9%80%B2%E5%B0%81%E8%A3%9D-process-chain.html): 製程鏈深度報告,資料更新 2026-06(深色、完整製程拆解)
-- [AI晶片測試鏈 — 投資版](https://date-0604.github.io/chain-reports/deep/ai-chip-test/AI%E6%99%B6%E7%89%87%E6%B8%AC%E8%A9%A6%E9%8F%88-process-chain-light.html): 製程鏈深度報告,資料更新 2026-06(淺色易讀、受惠評分)
-- [AI晶片測試鏈 — 技術版](https://date-0604.github.io/chain-reports/deep/ai-chip-test/AI%E6%99%B6%E7%89%87%E6%B8%AC%E8%A9%A6%E9%8F%88-process-chain.html): 製程鏈深度報告,資料更新 2026-06(深色、完整製程拆解)
+- [AI晶片測試鏈 — 投資版](https://date-0604.github.io/chain-reports/deep/ai-chip-test/AI%E6%99%B6%E7%89%87%E6%B8%AC%E8%A9%A6%E9%8F%88-process-chain-light.html): 製程鏈深度報告,資料更新 2026-07(淺色易讀、受惠評分)
+- [AI晶片測試鏈 — 技術版](https://date-0604.github.io/chain-reports/deep/ai-chip-test/AI%E6%99%B6%E7%89%87%E6%B8%AC%E8%A9%A6%E9%8F%88-process-chain.html): 製程鏈深度報告,資料更新 2026-07(深色、完整製程拆解)
 - [AI伺服器電源鏈 — 投資版](https://date-0604.github.io/chain-reports/deep/ai-server-power/AI%E4%BC%BA%E6%9C%8D%E5%99%A8%E9%9B%BB%E6%BA%90%E9%8F%88-process-chain-light.html): 製程鏈深度報告,資料更新 2026-06(淺色易讀、受惠評分)
 - [AI伺服器電源鏈 — 技術版](https://date-0604.github.io/chain-reports/deep/ai-server-power/AI%E4%BC%BA%E6%9C%8D%E5%99%A8%E9%9B%BB%E6%BA%90%E9%8F%88-process-chain.html): 製程鏈深度報告,資料更新 2026-06(深色、完整製程拆解)
 - [AI伺服器整機機櫃組裝 — 投資版](https://date-0604.github.io/chain-reports/deep/ai-server-rack-assembly/AI%E4%BC%BA%E6%9C%8D%E5%99%A8%E6%95%B4%E6%A9%9F%E6%A9%9F%E6%AB%83%E7%B5%84%E8%A3%9D-process-chain-light.html): 製程鏈深度報告,資料更新 2026-06(淺色易讀、受惠評分)
