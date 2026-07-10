@@ -2,7 +2,7 @@
 
 > 個人台股 AI / 半導體供應鏈「製程鏈 × 供應鏈」深度研究筆記。每個主題拆解完整製程鏈、逐環節技術難度、台廠 vs 國際供應鏈逐環節對照(嚴格區分『已查證(有獨立佐證)』與『概念股清單(未逐項佐證)』);每主題雙版本——技術版(深色,完整製程)+ 投資版(淺色,含受惠評分/估值)。內容為個人研究彙整、非投資建議。
 
-更新:2026-07-06。以下為各主題報告連結。
+更新:2026-07-11。以下為各主題報告連結。
 
 ## 深度研究報告
 
@@ -22,16 +22,16 @@
 - [COUPE-EIC-on-PIC共整合 — 技術版](https://date-0604.github.io/chain-reports/deep/coupe-eic-on-pic/COUPE-EIC-on-PIC%E5%85%B1%E6%95%B4%E5%90%88-process-chain.html): 製程鏈深度報告,資料更新 2026-06(深色、完整製程拆解)
 - [CPO共封裝光學 — 投資版](https://date-0604.github.io/chain-reports/deep/cpo-silicon-photonics/CPO%E5%85%B1%E5%B0%81%E8%A3%9D%E5%85%89%E5%AD%B8-process-chain-light.html): 製程鏈深度報告,資料更新 2026-06(淺色易讀、受惠評分)
 - [CPO共封裝光學 — 技術版](https://date-0604.github.io/chain-reports/deep/cpo-silicon-photonics/CPO%E5%85%B1%E5%B0%81%E8%A3%9D%E5%85%89%E5%AD%B8-process-chain.html): 製程鏈深度報告,資料更新 2026-06(深色、完整製程拆解)
-- [設備零組件國產化 — 投資版](https://date-0604.github.io/chain-reports/deep/equipment-parts-localization/%E8%A8%AD%E5%82%99%E9%9B%B6%E7%B5%84%E4%BB%B6%E5%9C%8B%E7%94%A2%E5%8C%96-process-chain-light.html): 製程鏈深度報告,資料更新 2026-06(淺色易讀、受惠評分)
-- [設備零組件國產化 — 技術版](https://date-0604.github.io/chain-reports/deep/equipment-parts-localization/%E8%A8%AD%E5%82%99%E9%9B%B6%E7%B5%84%E4%BB%B6%E5%9C%8B%E7%94%A2%E5%8C%96-process-chain.html): 製程鏈深度報告,資料更新 2026-06(深色、完整製程拆解)
+- [設備零組件國產化 — 投資版](https://date-0604.github.io/chain-reports/deep/equipment-parts-localization/%E8%A8%AD%E5%82%99%E9%9B%B6%E7%B5%84%E4%BB%B6%E5%9C%8B%E7%94%A2%E5%8C%96-process-chain-light.html): 製程鏈深度報告,資料更新 2026-07(淺色易讀、受惠評分)
+- [設備零組件國產化 — 技術版](https://date-0604.github.io/chain-reports/deep/equipment-parts-localization/%E8%A8%AD%E5%82%99%E9%9B%B6%E7%B5%84%E4%BB%B6%E5%9C%8B%E7%94%A2%E5%8C%96-process-chain.html): 製程鏈深度報告,資料更新 2026-07(深色、完整製程拆解)
 - [玻璃基板供應鏈 — 投資版](https://date-0604.github.io/chain-reports/deep/glass-substrate/glass-substrate-process-chain-light.html): 製程鏈深度報告,資料更新 2026-07(淺色易讀、受惠評分)
 - [玻璃基板供應鏈 — 技術版](https://date-0604.github.io/chain-reports/deep/glass-substrate/glass-substrate-process-chain.html): 製程鏈深度報告,資料更新 2026-07(深色、完整製程拆解)
 - [高階CCL-HVLP銅箔 — 投資版](https://date-0604.github.io/chain-reports/deep/high-end-ccl-hvlp/%E9%AB%98%E9%9A%8ECCL-HVLP%E9%8A%85%E7%AE%94-process-chain-light.html): 製程鏈深度報告,資料更新 2026-06(淺色易讀、受惠評分)
 - [高階CCL-HVLP銅箔 — 技術版](https://date-0604.github.io/chain-reports/deep/high-end-ccl-hvlp/%E9%AB%98%E9%9A%8ECCL-HVLP%E9%8A%85%E7%AE%94-process-chain.html): 製程鏈深度報告,資料更新 2026-06(深色、完整製程拆解)
 - [InP光通訊上游 — 投資版](https://date-0604.github.io/chain-reports/deep/inp-optical/InP%E5%85%89%E9%80%9A%E8%A8%8A%E4%B8%8A%E6%B8%B8-process-chain-light.html): 製程鏈深度報告,資料更新 2026-07(淺色易讀、受惠評分)
 - [InP光通訊上游 — 技術版](https://date-0604.github.io/chain-reports/deep/inp-optical/InP%E5%85%89%E9%80%9A%E8%A8%8A%E4%B8%8A%E6%B8%B8-process-chain.html): 製程鏈深度報告,資料更新 2026-07(深色、完整製程拆解)
-- [224G高速互連 — 投資版](https://date-0604.github.io/chain-reports/deep/interconnect-224g/224G%E9%AB%98%E9%80%9F%E4%BA%92%E9%80%A3-process-chain-light.html): 製程鏈深度報告,資料更新 2026-06(淺色易讀、受惠評分)
-- [224G高速互連 — 技術版](https://date-0604.github.io/chain-reports/deep/interconnect-224g/224G%E9%AB%98%E9%80%9F%E4%BA%92%E9%80%A3-process-chain.html): 製程鏈深度報告,資料更新 2026-06(深色、完整製程拆解)
+- [224G高速互連 — 投資版](https://date-0604.github.io/chain-reports/deep/interconnect-224g/224G%E9%AB%98%E9%80%9F%E4%BA%92%E9%80%A3-process-chain-light.html): 製程鏈深度報告,資料更新 2026-07(淺色易讀、受惠評分)
+- [224G高速互連 — 技術版](https://date-0604.github.io/chain-reports/deep/interconnect-224g/224G%E9%AB%98%E9%80%9F%E4%BA%92%E9%80%A3-process-chain.html): 製程鏈深度報告,資料更新 2026-07(深色、完整製程拆解)
 - [成熟製程代工漲價 — 投資版](https://date-0604.github.io/chain-reports/deep/mature-foundry-pmic/%E6%88%90%E7%86%9F%E8%A3%BD%E7%A8%8B%E4%BB%A3%E5%B7%A5%E6%BC%B2%E5%83%B9-process-chain-light.html): 製程鏈深度報告,資料更新 2026-06(淺色易讀、受惠評分)
 - [成熟製程代工漲價 — 技術版](https://date-0604.github.io/chain-reports/deep/mature-foundry-pmic/%E6%88%90%E7%86%9F%E8%A3%BD%E7%A8%8B%E4%BB%A3%E5%B7%A5%E6%BC%B2%E5%83%B9-process-chain.html): 製程鏈深度報告,資料更新 2026-06(深色、完整製程拆解)
 - [MLCC被動元件 — 投資版](https://date-0604.github.io/chain-reports/deep/mlcc-passive/MLCC%E8%A2%AB%E5%8B%95%E5%85%83%E4%BB%B6-process-chain-light.html): 製程鏈深度報告,資料更新 2026-06(淺色易讀、受惠評分)
